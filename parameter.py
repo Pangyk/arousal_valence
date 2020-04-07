@@ -1,0 +1,12 @@
+path_a = "./model/weight_a"
+path_v = "./model/weight_v"
+total = 1280
+repeat = 1
+train = 900
+lr1 = 2e-4
+lr2 = 5e-5
+epochs = 500
+batch_size = 500
+kernel1 = 20
+kernel2 = 20
+kernel3 = 20
